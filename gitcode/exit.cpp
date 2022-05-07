@@ -5,7 +5,7 @@ int main()
 	string s = "ababcbacadefegdehijhklij";
 	for (auto i : partitionLabels(s))
 	{
-		cout << i << "  ";
+		cout << i << "   ";
 	}
 	return 0;
 }
