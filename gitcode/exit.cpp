@@ -1,13 +1,11 @@
-#include <iostream>
+#include"763划分字母区间.h"
 using namespace std;
 int main()
 {
-	cout << "first push";
-	cout << "second push";
-	cout << "third push";
-	cout << "forth push";
-	cout << "fifth push";
-	cout << "sixth push";
-	cout << "seventh push";
+	string s = "ababcbacadefegdehijhklij";
+	for (auto i : partitionLabels(s))
+	{
+		cout << i << "  ";
+	}
 	return 0;
 }
