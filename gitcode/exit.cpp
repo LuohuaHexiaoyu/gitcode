@@ -7,5 +7,6 @@ int main()
 	cout << "third push";
 	cout << "forth push";
 	cout << "fifth push";
+	cout << "sixth push";
 	return 0;
 }
