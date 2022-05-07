@@ -1,12 +1,8 @@
-#include"763PartitionLabels.h"
+#include "122bestTimeToBuyAndSellStock.h"
 using namespace std;
 int main()
 {
-	string s = "ababcbacadefegdehijhklij";
-	for (auto i : partitionLabels(s))
-	{
-		cout << i << "   ";
-	}
-	cout << "hello";
+	vector<int> prices{ 7,6,4,3,1};
+	cout << "×î´óÀûÈó£º" << maxprofit(prices);
 	return 0;
 }

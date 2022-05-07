@@ -23,5 +23,8 @@
     <ClInclude Include="763PartitionLabels.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="122bestTimeToBuyAndSellStock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

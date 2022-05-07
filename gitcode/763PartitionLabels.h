@@ -1,5 +1,5 @@
 #pragma once
-
+//划分字母区间
 #include<iostream>
 #include<vector>
 #include<algorithm>
