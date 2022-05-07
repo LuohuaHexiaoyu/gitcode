@@ -1,4 +1,4 @@
-#include"763划分字母区间.h"
+#include"763PartitionLabels.h"
 using namespace std;
 int main()
 {
